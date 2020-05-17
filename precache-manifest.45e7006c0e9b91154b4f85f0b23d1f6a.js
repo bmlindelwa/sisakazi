@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0735961bf16fdf4a57798db834277657",
+    "revision": "d3aaef7634696fe25cd50d647975a1c3",
     "url": "/sisakazi/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sisakazi/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "7b0b7f8bdcd0eac949b0",
-    "url": "/sisakazi/static/css/main.5e2930f0.chunk.css"
+    "revision": "6b6c78d04bacc9c035f8",
+    "url": "/sisakazi/static/css/main.afe63286.chunk.css"
   },
   {
     "revision": "911ed5d9918d60d55a8e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sisakazi/static/js/2.fb329bdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b0b7f8bdcd0eac949b0",
-    "url": "/sisakazi/static/js/main.c8248b2d.chunk.js"
+    "revision": "6b6c78d04bacc9c035f8",
+    "url": "/sisakazi/static/js/main.684442e7.chunk.js"
   },
   {
     "revision": "cea00535af67e17792b6",
