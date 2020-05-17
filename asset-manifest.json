@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sisakazi/static/css/main.5e2930f0.chunk.css",
-    "main.js": "/sisakazi/static/js/main.c9a0a32e.chunk.js",
-    "main.js.map": "/sisakazi/static/js/main.c9a0a32e.chunk.js.map",
+    "main.js": "/sisakazi/static/js/main.c8248b2d.chunk.js",
+    "main.js.map": "/sisakazi/static/js/main.c8248b2d.chunk.js.map",
     "runtime-main.js": "/sisakazi/static/js/runtime-main.0e762396.js",
     "runtime-main.js.map": "/sisakazi/static/js/runtime-main.0e762396.js.map",
     "static/css/2.3c03f26f.chunk.css": "/sisakazi/static/css/2.3c03f26f.chunk.css",
     "static/js/2.fb329bdf.chunk.js": "/sisakazi/static/js/2.fb329bdf.chunk.js",
     "static/js/2.fb329bdf.chunk.js.map": "/sisakazi/static/js/2.fb329bdf.chunk.js.map",
     "index.html": "/sisakazi/index.html",
-    "precache-manifest.2316467df30b6e66db10d434fa70a084.js": "/sisakazi/precache-manifest.2316467df30b6e66db10d434fa70a084.js",
+    "precache-manifest.d590749d7953412705b2477a7453efd4.js": "/sisakazi/precache-manifest.d590749d7953412705b2477a7453efd4.js",
     "service-worker.js": "/sisakazi/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/sisakazi/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.5e2930f0.chunk.css.map": "/sisakazi/static/css/main.5e2930f0.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fb329bdf.chunk.js",
     "static/css/main.5e2930f0.chunk.css",
-    "static/js/main.c9a0a32e.chunk.js"
+    "static/js/main.c8248b2d.chunk.js"
   ]
 }
