@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sisakazi/static/css/main.6f9f9401.chunk.css",
+    "main.css": "/sisakazi/static/css/main.5e2930f0.chunk.css",
     "main.js": "/sisakazi/static/js/main.c9a0a32e.chunk.js",
     "main.js.map": "/sisakazi/static/js/main.c9a0a32e.chunk.js.map",
     "runtime-main.js": "/sisakazi/static/js/runtime-main.0e762396.js",
@@ -9,10 +9,10 @@
     "static/js/2.fb329bdf.chunk.js": "/sisakazi/static/js/2.fb329bdf.chunk.js",
     "static/js/2.fb329bdf.chunk.js.map": "/sisakazi/static/js/2.fb329bdf.chunk.js.map",
     "index.html": "/sisakazi/index.html",
-    "precache-manifest.14dfb6d4d70c28821273316742db668d.js": "/sisakazi/precache-manifest.14dfb6d4d70c28821273316742db668d.js",
+    "precache-manifest.2316467df30b6e66db10d434fa70a084.js": "/sisakazi/precache-manifest.2316467df30b6e66db10d434fa70a084.js",
     "service-worker.js": "/sisakazi/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/sisakazi/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.6f9f9401.chunk.css.map": "/sisakazi/static/css/main.6f9f9401.chunk.css.map",
+    "static/css/main.5e2930f0.chunk.css.map": "/sisakazi/static/css/main.5e2930f0.chunk.css.map",
     "static/js/2.fb329bdf.chunk.js.LICENSE.txt": "/sisakazi/static/js/2.fb329bdf.chunk.js.LICENSE.txt",
     "static/media/283359.jpg": "/sisakazi/static/media/283359.860d90c0.jpg",
     "static/media/african-dress.jpg": "/sisakazi/static/media/african-dress.65f7049b.jpg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.0e762396.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fb329bdf.chunk.js",
-    "static/css/main.6f9f9401.chunk.css",
+    "static/css/main.5e2930f0.chunk.css",
     "static/js/main.c9a0a32e.chunk.js"
   ]
 }
